@@ -11,7 +11,7 @@ Repo for Apple Feedback Issue - Code Example
 • Connected USB or Bluetooth keyboard and mouse/trackpad<BR>
 <BR>
 **STEPS TO REPRODUCE** <BR>
-• Download and run sample project<BR>
+• [Download](https://github.com/x74353/IOConnectCallScalarMethod_Issue_AppleFB/archive/refs/heads/main.zip) and run sample project<BR>
 • Follow steps in app's user interface
 <BR><BR>
 <img src="Images/StepsScreen.png">
