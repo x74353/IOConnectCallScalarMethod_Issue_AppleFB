@@ -15,3 +15,11 @@ Code example for Apple Feedback Issue FB9101664
 • Follow steps in app's user interface
 <BR><BR>
 <img src="Images/StepsScreen.png">
+<BR><BR>
+**EXPECTED RESULTS**<BR>
+• M1-based Mac should not sleep when IOConnectCallScalarMethod is executed, this does NOT occur on Intel-based MacBook-family Macs<BR>
+• Issue does not occur when using the built-in display alone, or in-conjunction (simultaneous) with the external display<BR>
+• Actions/API calls resulting in Mac sleep should be consistent and not dependent on how many displays are connected to Mac<BR>
+<BR>
+**PROPOSED RESOLUTION**<BR>
+• Fix bug, or provide an API to detect situation/apply override (prevent sleep)
